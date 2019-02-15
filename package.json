@@ -1,0 +1,15 @@
+{
+  "name": "babel-plugin-inline-environment-variables",
+  "version": "0.0.1",
+  "description": "A Babel plugin let you `import` environment variables from `*.env` and shell",
+  "main": "index.js",
+  "keywords": [
+    "dotenv",
+    "babel",
+    "babel-plugin",
+    "inline-environment-variables",
+    "react-native"
+  ],
+  "author": "Michael Sivolobov",
+  "license": "MIT"
+}
