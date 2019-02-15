@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-inline-environment-variables",
+  "name": "babel-plugin-dotenv-environment-variables",
   "version": "0.0.1",
   "description": "A Babel plugin let you `import` environment variables from `*.env` and shell",
   "main": "index.js",
