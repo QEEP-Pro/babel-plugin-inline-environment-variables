@@ -11,5 +11,8 @@
     "react-native"
   ],
   "author": "Michael Sivolobov",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
 }
